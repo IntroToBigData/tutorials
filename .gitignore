@@ -1,0 +1,11 @@
+hadoop-tutorial/*
+**/*.aux
+**/*.log
+**/*.nav
+**/*.out
+**/*.snm
+**/*.gz
+**/*.tex
+**/*.toc
+**/*.vrb
+
