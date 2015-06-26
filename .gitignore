@@ -1,4 +1,5 @@
 hadoop-tutorial/*
+**/figures/*
 **/*.aux
 **/*.log
 **/*.nav
