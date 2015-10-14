@@ -1,4 +1,4 @@
-hadoop-tutorial/*
+iac-tutorial/*
 **/figures/*
 **/*.aux
 **/*.log
@@ -9,4 +9,4 @@ hadoop-tutorial/*
 **/*.tex
 **/*.toc
 **/*.vrb
-
+**.ipynb_checkpoints**
